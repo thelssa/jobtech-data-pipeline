@@ -1,0 +1,1211 @@
+[
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Analytics",
+    "description": "Au sein d’une équipe composée de trois analystes, vous contribuez activement à la préparation, à l’exploration et à l’analyse des données. Vous êtes en charge de leur valorisation à travers des tableaux de bord Power BI, qui accompagnent le pilotage tactique de l’organisation (développement de produits, création de contenus, distribution, etc.). Vous intervenez sur l’ensemble de la chaîne de valeur : de la définition des indicateurs clés (KPIs) jusqu’à la production de recommandations, en passa…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 115000,
+    "salaire_max": 115000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5272371506?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Azure Cloud Architect",
+    "description": " For our client in Zurich, we are looking for an experienced, motivated Azure Cloud Architect. Our client is looking for a skilled and proactive Azure Cloud Architect to help shape the architecture of a new, cloud-native trading platform. The role involves addressing key challenges such as security, red zone integration, NSG rules, and ingress strategies, while also evaluating potential WMPC connectivity. They are seeking a strong communicator with the drive to challenge the status quo and push…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "azure"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5271180698?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "Founded in Switzerland in 1968, Zühlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future – to run smarter today while adapting for tomorrow’s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engi…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5271180605?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Software Engineer (Backend/Fullstack) 100% - Remote",
+    "description": "Modulos AG, founded in 2018, is a Swiss technology company pioneering AI governance solutions. The Modulos AI Governance Platform unifies compliance officers, data scientists, risk managers, and business users in a single collaborative environment, streamlining compliance with frameworks like the EU AI Act and ISO 42001. Through its Agentic AI capabilities, the platform automates routine tasks and enables proactive risk management, helping organizations maintain continuous compliance efficientl…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": true,
+    "salaire_min": 90000,
+    "salaire_max": 90000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5269391225?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Penetration Tester (80-100%)",
+    "description": "Deine Aufgaben Als Senior Penetration Tester/-in analysierst du digitale Systeme und vernetzte Infrastrukturen, um sicherheitsrelevante Schwachstellen aufzudecken. Warum du zum NTC passt Wir sind eine junge, gemeinnützige Organisation mit einem klaren gesellschaftlichen Auftrag. Bei uns hast du die Gelegenheit, aktiv mitzugestalten, Strukturen aufzubauen und neue Ansätze in der Cybersicherheit zu erproben. Du hast Lust anzupacken, etwas aufzubauen und neue Wege auszuprobieren? Dann bietet dir d…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5269163450?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "About the Role Cleeven is seeking a talented and driven Data Scientist to join our Swiss consulting team. In this role, you will support our clients across various industries—such as finance, healthcare, energy, and manufacturing—by transforming data into actionable insights that drive innovation and efficiency. As a Data Scientist, you will work closely with business stakeholders and technical teams to identify problems, develop data-driven solutions, and deploy predictive and prescriptive mod…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5267816585?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Financial Analyst (50%-80%)",
+    "description": "LeapNode is seeking a highly motivated and experienced Senior Financial Systems Analyst to take ownership of its internal platforms RiskHub and PORT adAPPter on a project basis. This role is designed for professionals with a strong financial domain background—especially in portfolio data modeling and instrument representation for risk systems—combined with the technical proficiency to manage and extend a Python-based platform and database architecture. You will act as the key liaison between in…",
+    "secteur": "Stellen aus Buchhaltung & Finanzwesen",
+    "skills": [
+      "python"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 96000,
+    "salaire_max": 120000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5266249456?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "DevOps Engineer (w/m/d) 80-100% - fully remote",
+    "description": "About Papers Papers is a software engineering company founded on high-tech talent. We support the full lifecycle of innovative web3 products — from concept to software market fit — building secure, scalable futures for our clients and the internet at large. With over a decade of experience and a reputation built on delivering for Fortune 500s and blockchain ecosystems, our teams combine deep technical know-how with a mission to enable meaningful, decentralized innovation. As a remote-first, eng…",
+    "secteur": "Technikerstellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": true,
+    "salaire_min": 35000,
+    "salaire_max": 60000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5265611618?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist - QuantumBlack, AI by McKinsey",
+    "description": "Your Growth Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward. In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your col…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5265091968?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Optimization Data Scientist",
+    "description": "Activités Run & Change: Profil du candidat Informations supplémentaires Contexte et environnement Your mission As part of the Optimization Services team, you will design, develop, deploy and support the Data Science models of the team’s systems/applications. The Optimization Services team focuses on the multi-market multi-asset optimizations of short-term power trading. We are part of the Gas & Power IT department for the Trading business lines of the TotalEnergies company, whose main office is…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5263677904?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "CTO (full remote/hybrid/on-site)",
+    "description": "Lead a Tech team (Developers, AI Engineersetc.) Design Tech road map of a growing startup About Our Client Our client is a ground-breaking LegalTech startup. Job Description Define, own, and communicate the long-term technology roadmap, including the strategic development and evolution of a SaaS platform , aligned with product and business objectives. Lead, mentor, and grow cross-functional teams covering Engineering (front-end, back-end, databases), AI/ML, DevOps, Security, and Infrastructure.…",
+    "secteur": "Stellen aus Buchhaltung & Finanzwesen",
+    "skills": [
+      "ml"
+    ],
+    "techno_recherche": "python",
+    "is_remote": true,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5263677897?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist - QuantumBlack, AI by McKinsey",
+    "description": "Who You'll Work With Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward. In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible.…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5263677859?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (80 - 100%)",
+    "description": "Das sind Ihre Aufgaben: Analyse der bestehenden, fragmentierten Datenlandschaft und deren Weiterentwicklung zu einem Datawarehouse Begleitung und Unterstützung von Projekten bei der Entwicklung von Konzepten Ermittlung und Beschreibung der Anforderungen an die Neu- und Weiterentwicklung der Verwaltungs- und Berechnungssysteme inkl. Realisierung Aufbereitung von statistischen Analysen und Entscheidungsgrundlagen für die öV-Branche und deren Gremienlandschaft Das bringen Sie mit: Mehrjährige Beru…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5263677776?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "What's the role? In the role of a Data Scientist, you will collaborate with our Data Engineers on advanced statistical modelling. Hilti has a tremendous wealth of external and internal data. We are using it to bring our customer relationship to another level as well as develop advanced tools and services based on tool data. The Data Science team is highly technical and in the same time at the core of Hilti’s digital business. What does the role involve? In this role, you design experiments, tes…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5259595309?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (m/w/d) 80-100% (Glattpark (Opfikon), CH, 8152)",
+    "description": "Als führender Schweizer Bau- und Immobiliendienstleister entwickelt, realisiert und bewirtschaftet Implenia Lebensräume, Arbeitswelten und Infrastruktur für künftige Generationen in der Schweiz und in Deutschland. Zudem bietet Implenia in weiteren Märkten Tunnelbau- und damit verbundene Infrastrukturprojekte. Das Unternehmen fasst das Know-how aus hochqualifizierten Beratungs-, Entwicklungs-, Planungs- und Ausführungseinheiten unter einem Dach zu einem integrierten, multinational führenden Bau-…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5259595302?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "(Senior) Full-Stack Engineer in a fast-growing AI Startup",
+    "description": "At the ETH spin-off Lightly, we build software solutions to help companies improve their deep learning models. The available data for deep learning grows faster than human tagging and available compute power. Our customers already face this problem and have too much data to process. As a solution, we built software to identify and work with the most relevant samples only. Learn more about us on our website. We are a team of talented developers and researchers in Zurich and are backed by YCombin…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5259595266?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "Rejoignez Novatix , un des leaders en solutions d'Intelligence Artificielle (IA) et de Machine Learning en Suisse Romande , maintenant membre du groupe Ansam . Nous aidons les organisations à tirer parti de l'IA en les accompagnant de la stratégie à la mise en production : conseil, développement de solutions sur mesure, intégration, maintenance et formation . Notre équipe d’expert·e·s passionné·e·s est dédiée à l’innovation continue et à la création de valeur pour nos clients . Chez ANSAM , la …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5259595168?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Software Engineer (Python) Turkey",
+    "description": "Constructor TECH is an all-in-one platform for education and research. With expertise in machine intelligence and data science, Constructor is built to cater to the needs of schools, higher education, corporate training, alternative credentials, and professional sports, offering solutions for teaching and administration, learning and research. From infrastructure to applications, Constructor elevates learning experiences, empowers educators, and drives research breakthroughs. Our headquarters i…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 300000,
+    "salaire_max": 300000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5259595181?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack Engineer (C#, Angular, Python) (a)",
+    "description": "Wir sind ERNI . Seit 1994 beraten und unterstützen wir Unternehmen in Innovation und Technologie mit dem Ziel, die unternehmerische Leistungsfähigkeit unserer Kunden zu steigern und damit den Weg ins digitale Morgen zu ebnen. Unser Schlüssel zum Erfolg: Menschen wie Du und unser von schweizerischen Werten geprägter Mindset. Wir wollen, dass unsere Kunden effektiver und innovativer sind als alle anderen. Gemeinsam erreichen wir diese hohen Ziele – partnerschaftlich, als echtes Team und mit echte…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python",
+      "angular"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5258141341?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Cloud Architekt (m/w/d) - (AWS, Azure, Google Cloud, Kubernetes) (Ref.Nr.: 44377)",
+    "description": "Zur weiteren Stärkung unseres Cloud-Engineering-Teams für Projekteinsätze bei renommierten Kunden in der Schweiz suchen wir erfahrene Cloud Architekten mit Schwerpunkt auf AWS, Azure, Google Cloud und Kubernetes. Unsere Kunden kommen aus verschiedenen Branchen und setzen auf modernste Cloud-Technologien zur Optimierung ihrer IT-Landschaft. Vertragsart : Befristete Anstellung (12 Monate) mit Option auf unbefristete Festanstellung Dauer : 13 Monate /  Verlängerungsoption Auslastung : 100 % Einsat…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "aws",
+      "azure",
+      "kubernetes"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5258141167?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "CTO - Social Commerce Startup",
+    "description": "Get AI-powered advice on this job and more exclusive features. Direct message the job poster from TAVANNE TAVANNE is building the next wave of beauty commerce - where content, community, and technology converge to create a new kind of shopping experience. We’re not replicating what exists. We're rethinking how products are discovered and trusted. Behind the scenes : proprietary tech , real-time interactivity , and a platform designed to scale . About the role We are hiring a Chief Technology Of…",
+    "secteur": "Beraterstellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5258140874?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack Engineer (C#, Angular, Python) (a)",
+    "description": "Wir sind ERNI . Seit 1994 beraten und unterstützen wir Unternehmen in Innovation und Technologie mit dem Ziel, die unternehmerische Leistungsfähigkeit unserer Kunden zu steigern und damit den Weg ins digitale Morgen zu ebnen. Unser Schlüssel zum Erfolg: Menschen wie Du und unser von schweizerischen Werten geprägter Mindset. Wir wollen, dass unsere Kunden effektiver und innovativer sind als alle anderen. Gemeinsam erreichen wir diese hohen Ziele - partnerschaftlich, als echtes Team und mit echte…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python",
+      "angular"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5256347705?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Azure/ AI Architect",
+    "description": "Join to apply for the Azure/ AI Architect role at SGI . Location can be remote, but the candidate must speak fluent German. Job Description For our customer, we require a German Speaking Azure AI / App Services Architect. Responsibilities include: Proven experience with Azure AI services and Azure App Services. Onboarding and configuring AI services in enterprise environments. Strong knowledge of Azure Resource Manager (ARM) or Bicep, Azure DevOps, and CI/CD pipelines. Experience with Python, C…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python",
+      "azure"
+    ],
+    "techno_recherche": "python",
+    "is_remote": true,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5256347519?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React)",
+    "description": "Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React) Join to apply for the Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React) role at Circleup Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React) Join to apply for the Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React) role at Circleup This range is provided by Circleup. Your actual pay will be based on …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "react",
+      "django"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5256347481?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack JavaScript/TypeScript Developer",
+    "description": "Formidable Care is focused on improving healthcare through innovative digital solutions. We are expanding our team with the opening of a new office in Switzerland and are looking for a Senior Fullstack JavaScript/TypeScript Developer to join us. This is an exciting opportunity to contribute to impactful projects that make a real difference in healthcare. We are committed to making healthcare more accessible, efficient, and user-friendly for millions of people. Role Overview As a Senior Fullstac…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "typescript"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5256347455?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist/in (m/w/d, 80-100%)",
+    "description": "Unsere Mandantin, die Luzerner Kantonalbank – die führende Universalbank der Zentralschweiz – steht für moderne Bankdienstleistungen und Finanzprodukte. Um ihren Kunden erstklassige Services und innovative Lösungen anbieten zu können, setzt sie auf neueste Technologien und datengetriebene Innovationen. Für das Team «Data & Analytics» suchen wir eine initiative, analytische und interdisziplinär denkende Persönlichkeit in der Rolle als (Office: im Herzen von Luzern, nur wenige Gehminuten vom Bahn…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5254735937?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Lead Principal Data Scientist, R&D (f/m/d)",
+    "description": "Location. Basel, Switzerland. Today, Lonza is a global leader in life sciences operating across five continents. While we work in science, there’s no magic formula to how we do it. Our greatest scientific solution is talented people working together, devising ideas that help businesses to help people. In exchange, we let our people own their careers. Their ideas, big and small, genuinely improve the world. And that’s the kind of work we want to be part of. Are you passionate about leading innov…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5253088894?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "Role : Data Scientist Salary : £50,000 - £65,000 DOE  15% Annual Bonus Location : Fully Remote (occasional meetups in London) Full Time, Perm We have partnered with a UK-based company that is redefining the renewable energy sector with their AI technology. Operating on a global scale, and after remarkable growth over the past 3 years, they’re looking to further expand their Data Analytics Team by recruiting a Data Scientist. The candidate will be responsible for using AI and cutting-edge techno…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": true,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5253088878?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Penetration Tester/-in beim NTC",
+    "description": "Deine Aufgaben Als Senior Penetration Tester/-in analysierst du digitale Systeme und vernetzte Infrastrukturen, um sicherheitsrelevante Schwachstellen aufzudecken. Warum du zum NTC passt Wir sind eine junge, gemeinnützige Organisation mit einem klaren gesellschaftlichen Auftrag. Bei uns hast du die Gelegenheit, aktiv mitzugestalten, Strukturen aufzubauen und neue Ansätze in der Cybersicherheit zu erproben. Du hast Lust anzupacken, etwas aufzubauen und neue Wege auszuprobieren? Dann bietet dir d…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5253088359?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Platform Architect (Azure and Snowflake)",
+    "description": "Design a platform architecture that aligns with the overarching goals and strategic direction of the organization. Drive architectural decision-making and foster consensus within the project team. Oversee the operation and performance of the data platform, ensuring high availability and reliability through close coordination with the internal cloud infrastructure team. Collaborate with data engineers, analysts, and stakeholders to gather data requirements and deliver effective solutions. Apply …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "azure"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5253088355?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Cloud Architekt (m/w/d) - (AWS, Azure, Google Cloud, Kubernetes) (Ref.Nr.: 44377)",
+    "description": "Cloud Architekt (m/w/d) - (AWS, Azure, Google Cloud, Kubernetes) (Ref.Nr.: 44377) Cloud Architekt (m/w/d) - (AWS, Azure, Google Cloud, Kubernetes) (Ref.Nr.: 44377) Zur weiteren Stärkung unseres Cloud-Engineering-Teams für Projekteinsätze bei renommierten Kunden in der Schweiz suchen wir erfahrene Cloud Architekten mit Schwerpunkt auf AWS, Azure, Google Cloud und Kubernetes. Unsere Kunden kommen aus verschiedenen Branchen und setzen auf modernste Cloud-Technologien zur Optimierung ihrer IT-Lands…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "aws",
+      "azure",
+      "kubernetes"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5253088290?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Lead Principal Data Scientist, R&D (f/m/d)",
+    "description": "Lead Principal Data Scientist, R&D (f/m/d) Today, Lonza is a global leader in life sciences operating across five continents. While we work in science, there’s no magic formula to how we do it. Our greatest scientific solution is talented people working together, devising ideas that help businesses to help people. In exchange, we let our people own their careers. Their ideas, big and small, genuinely improve the world. And that’s the kind of work we want to be part of. Are you passionate about …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5251836321?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (m/w/d)",
+    "description": "About Wir gestalten die digitale Zukunft des Gesundheitswesens und entwickeln immer wieder einzigartige innovative Lösungen für unsere Kunden, die gesetzlichen Krankenversicherungen. Dieser digitale Pioniergeist macht uns zu einem führenden Dienstleistungsunternehmen in der Gesundheitsbranche. Bei uns stehen die Ideen und Persönlichkeiten unserer über 300 Mitarbeitenden an erster Stelle. Wir sind überzeugt: Wenn du machst, was du liebst, machst du es richtig gut. Zur Verstärkung unseres Teams s…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5248559191?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist - Entry-Level",
+    "description": "Are you willing to contribute your skills to have an impact on the planet and accelerate the clean energy transition ? Come join SmartHelio, a Y-Combinator-backed deep-tech company based in Switzerland, USA, and India, recognized as “Best for the world” by B-Corporation Institute for its high contribution to the clean tech & environment . At SmartHelio, we are at the forefront of revolutionizing the energy sector in response to the pressing challenges of climate change. With cutting-edge techno…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5244018562?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist - Innovation team",
+    "description": "Data Scientist - Innovation team 100%, Zurich, fixed-term print Drucken The SDSC has been a National Research Infrastructure since 2025, evolving from a strategic focus area of the ETH domain, with EPFL and ETH Zurich as founding partners. Its mandate is to support academic groups and research, hospitals, industry, and the public sector at large, including cantonal and federal administrations. The center accompanies and supports their entire data science journey, from the collection and managem…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5240070861?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist – Innovation team",
+    "description": "The SDSC has been a National Research Infrastructure since 2025, evolving from a strategic focus area of the ETH domain, with EPFL and ETH Zurich as founding partners. Its mandate is to support academic groups and research, hospitals, industry, and the public sector at large, including cantonal and federal administrations. The center accompanies and supports their entire data science journey, from the collection and management of data to machine learning, AI, and industrialization. The Center c…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5234505099?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "Vitol is a leader in energy and commodities. Vitol produces, manages and delivers energy and commodities to consumers and industry worldwide. In addition to its primary business of trading, Vitol is invested in infrastructure globally, with $10billion invested in long-term assets. Vitol’s customers include national oil companies, multinationals, leading industrial companies and utilities. Founded in Rotterdam in 1966, today Vitol serves its customers from some 40 offices worldwide. Revenues in …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5234504731?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Head of PIC Characterisation (100%), Zürich, Switzerland",
+    "description": "Social network you want to login/join with: Location: Job Category: - Job Reference: tcpkhh7b Job Views: 4 Posted: 10.02.2025 Expiry Date: 27.03.2025 Job Description: About TechBiz Global TechBiz Global is a leading recruitment and software development company. Our diverse, globally distributed team provides IT recruitment, outstaffing, outsourcing, software development, and different consulting services with a primary focus on making our partners achieve their business goals successfully. With…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228825315?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "A US-Swiss startup, which embarked on a mission to fully automate business finance function, is looking for top-performing and passionate Data Scientist. Responsibilities Develop and deploy solutions for automating finance processes and solving business problems using LLMs, AI agents and predictive modeling techniques. Execute end-to-end data science process: from understanding business requirements, data discovery and extraction, model development and evaluation (LLM fine-tuning, RLHF, and RAG…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228825117?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "(Senior) Full-Stack Engineer in a fast-growing AI Startup",
+    "description": "At the ETH spin-off Lightly, we build software solutions to help companies improve their deep learning models. The available data for deep learning grows faster than human tagging and available compute power. Our customers already face this problem and have too much data to process. As a solution, we built software to identify and work with the most relevant samples only. Learn more about us on our website. We are a team of talented developers and researchers in Zurich and are backed by YCombin…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228824162?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Cloud Architekt (m/w/d) - (AWS, Azure, Google Cloud, Kubernetes) (Ref.Nr.: 44377)",
+    "description": "Zur weiteren Stärkung unseres Cloud-Engineering-Teams für Projekteinsätze bei renommierten Kunden in der Schweiz suchen wir erfahrene Cloud Architekten mit Schwerpunkt auf AWS, Azure, Google Cloud und Kubernetes. Unsere Kunden kommen aus verschiedenen Branchen und setzen auf modernste Cloud-Technologien zur Optimierung ihrer IT-Landschaft. Vertragsart: Befristete Anstellung (12 Monate) mit Option auf unbefristete Festanstellung Key Facts Start: 02.05.2025 Dauer: 13 Monate /  Verlängerungsoption…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "aws",
+      "azure",
+      "kubernetes"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228824126?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist in Sustainability",
+    "description": "Why you’ll love Quantis For nearly two decades, our dynamic and visionary team has partnered with organizations across the globe to transform their industries and pave the way for a planetary economy that aligns business with nature. We strive to be agents of change, helping companies transform from business as usual to business at its best. We believe that sustainable transformation is possible and within our power. We’re contributing to this transformation by combining the latest science with…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823807?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist Operations",
+    "description": "Join to apply for the Data Scientist Operations role at Arxada . Arxada is a global specialty chemicals business committed to solving the world’s toughest preservation challenges through better science. With a proud history of innovation spanning over a century, we aim to develop sustainable solutions that protect health, extend infrastructure lifespan, and reduce ecological footprints. Sustainable preservation is a top priority. We are investing strategically to reduce our environmental impact…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823573?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "ML Ops Data Scientist (m/w/d) 70 - 100%",
+    "description": "Bist du innovativ und liebst es, mit grossen Datenmengen zu jonglieren? Möchtest du mit deinen kreativen Ideen die Zukunft gestalten? Im Analytics-Team innerhalb des Geschäftsbereichs P&C Pricing sind wir für die Entwicklung datengestützter Lösungen verantwortlich. Wir sorgen dafür, dass Analytics-Projekte erfolgreich umgesetzt und Prozesse durch Automatisierung vereinfacht werden, um einen wertvollen Beitrag zur Strategie und für unsere Kunden zu leisten. Zur Erweiterung unseres Teams suchen w…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist",
+      "ml"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823549?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "[closed] Lead Full Stack Engineer",
+    "description": "Every day we create inventions that help our customers to define new products and value-creating services in areas such as autonomous vehicles, healthcare and communications. About our client Iprova is a pioneering and fast-growing technology start-up company with offices in Lausanne, Switzerland, and Cambridge and London, UK. We are working with some of the world’s best-known technology companies in North America, Europe and Japan to develop advanced AI-based algorithms that enable the product…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823408?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Principal Data Scientist - Oracle Labs",
+    "description": "Join to apply for the Principal Data Scientist - Oracle Labs role at Oracle . 4 days ago Be among the first 25 applicants. Get AI-powered advice on this job and more exclusive features. About Oracle Labs The mission of Oracle Labs is to identify, explore, and transfer new technologies that have the potential to substantially improve Oracle’s business. Oracle’s commitment to R&D is a driving factor in the development of technologies that have kept Oracle at the forefront of the computer industry…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823180?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Site Reliability Engineer (SRE)",
+    "description": "Als schweizweit führendes Unternehmen schafft Ergon aus Digitalisierungstrends einzigartigen Kundennutzen – von der Idee bis zum Markterfolg. Ergon vereint Technologie-, Security- und Business-Kompetenzen und realisiert «smarte» Lösungen für komplexe Anforderungen. Der Airlock Secure Access Hub ist die Sicherheitslösung von Ergon. Airlock sorgt für sicheres Access Management und verhindert Angriffe auf APIs und Webanwendungen. Neben IAM und Application Protection beschäftigen wir uns mit Themen…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228822873?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack Engineer - GenAI",
+    "description": "Join to apply for the Senior Fullstack Engineer - GenAI role at On . Continue with Google Role Overview Our Direct to Consumer business is performing and growing strongly, which is why we are looking for a Senior Software Engineer to scale On’s online business to the next level. As an experienced engineer, you will be responsible for building, deploying, testing, and operating our digital infrastructure. You will play a critical role in developing, implementing, and maintaining a best-in-class …",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228823030?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack Engineer (C#, Angular, Python) (a)",
+    "description": "Wir sind ERNI . Seit 1994 beraten und unterstützen wir Unternehmen in Innovation und Technologie mit dem Ziel, die unternehmerische Leistungsfähigkeit unserer Kunden zu steigern und damit den Weg ins digitale Morgen zu ebnen. Unser Schlüssel zum Erfolg: Menschen wie Du und unser von schweizerischen Werten geprägter Mindset. Wir wollen, dass unsere Kunden effektiver und innovativer sind als alle anderen. Gemeinsam erreichen wir diese hohen Ziele – partnerschaftlich, als echtes Team und mit echte…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python",
+      "angular"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228822510?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (m/f/d)",
+    "description": "Job Responsibilities: Develop, train and deploy AI driven products to help business (at least two) Collect requirements from business and develop solution and collect feedback Building solutions on cloud environments Minimum Qualifications: Masters or PhD degree in Computer Science or Data Science, a related technical field, or equivalent ML experience Machine Learning Experience in academia or pharmaceutical/healthcare industry: developing ML/DL algorithms and architectures, training models, h…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist",
+      "ml"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228822342?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist",
+    "description": "Talan is a consulting firm specializing in innovation and transformation through technology. For over 20 years, Talan has been advising businesses and public institutions, supporting them, and implementing their transformation and innovation projects in France and internationally. Operating on five continents, the group expects to achieve a turnover of €600 million in 2023 with more than 6,000 consultants and aims to exceed the €1 billion revenue mark by 2025. The group places innovation at the…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821724?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist*",
+    "description": "Egal, für welches Data Science Thema du brennst - wir haben die richtige Aufgabe für dich! Werde Teil unseres Data Science & AI Teams ! Gemeinsam bringen wir ein enormes Spektrum an methodischen und technischen Skills auf den Tisch und arbeiten mit modernsten Technologien an spannenden Kundenprojekten ! Wenn du Erfahrung in Data Science hast, bist du bei uns genau richtig. Wir haben stets ein offenes Ohr für unsere Kunden, erkennen Optimierungspotenziale und beraten sie hinsichtlich geeigneter …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821880?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Lead Full-Stack SW Engineer & Partner (base salary & equity) - (Django & Flutter/React)",
+    "description": "We welcome highly experienced candidates preferred from a /- CET time zone. At Circleup, we're connecting people in person - offline - by simplifying the process of scheduling a meet-up and booking a place at your favorite restaurant in your city within a few seconds. Minimum effort spent on scheduling, choosing a time, and deciding on a place to meet. Circleup enhances the efficiency of maintaining your relationships and professional network. Unlike individually having to think about whom to m…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "react",
+      "django"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821711?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Go Developer - AI & ML",
+    "description": "About Civo: Civo is revolutionising the cloud industry by providing developers and businesses with cutting-edge, developer-friendly cloud solutions. With a focus on simplicity, performance, and reliability, Civo enables its clients to unleash the full potential of their projects and scale with ease. As a company committed to excellence and innovation, Civo values diversity, collaboration, and continuous improvement. About the Role: Are you up to the challenge of building the cloud with us? Are …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "ml"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821754?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist Operations",
+    "description": "Arxada is a global specialty chemicals business that’s committed to solving the world’s toughest preservation challenges through better science. [With a proud history of innovation dating back more than a century], we aim to help our customers develop more sustainable solutions that protect and maintain the health and wellbeing of people and extend the life of vital infrastructure while working to reduce our and our customers’ ecological footprint. Sustainable preservation is one of our top pri…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821438?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Salesforce Solution Architect",
+    "description": "Join to apply for the Salesforce Solution Architect role at albert agency 4 days ago Be among the first 25 applicants Join to apply for the Salesforce Solution Architect role at albert agency Get AI-powered advice on this job and more exclusive features. Joining albert means joining a newcomer who fundamentally changes the game . Today, we are the only ones to bring together Salesforce knowledge and collective intelligence to design unique and scalable customer experiences. On a daily basis, we…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821573?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist Operations",
+    "description": "Join to apply for the Data Scientist Operations role at Arxada . Arxada is a global specialty chemicals business committed to solving the world’s toughest preservation challenges through better science. With a proud history of innovation dating back over a century, we aim to help our customers develop more sustainable solutions that protect health, extend infrastructure lifespan, and reduce ecological footprints. Sustainable preservation is a top priority. We are making strategic investments to…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821299?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Fullstack Engineer - GenAI",
+    "description": "Join to apply for the Senior Fullstack Engineer - GenAI role at BoF Careers 6 days ago Be among the first 25 applicants Our Direct to Consumer business is performing and growing strongly, which is why we are looking for a Senior Software Engineer to scale On's online business to the next level. As an experienced engineer, you will be responsible for building, deploying, testing, and operating our digital infrastructure. In this role, you will play a critical part in developing, implementing, an…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228821265?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (GIS)",
+    "description": "Talan est un groupe international de conseil et d’expertises technologiques qui accélère la transformation de ses clients par les leviers de l'innovation, la technologie et la data. Depuis plus de 20 ans, Talan conseille et accompagne les entreprises et les institutions publiques dans la mise en œuvre de leurs projets de transformation et d'innovation en France et à l'international. Présent sur cinq continents, dans 18 pays, le Groupe, certifié Great Place To Work, qui comptera plus de 7200 col…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820930?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist Operations",
+    "description": "Data Scientist Operations page is loaded Data Scientist Operations Apply locations CH - Visp time type Full time posted on Posted Today job requisition id R52653 Arxada is a global specialty chemicals business that’s committed to solving the world’s toughest preservation challenges through better science. [With a proud history of innovation dating back more than a century], we aim to help our customers develop more sustainable solutions that protect and maintain the health and wellbeing of peop…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820599?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Head of Quantitative Trading",
+    "description": "About The Company Hercle is a fast-growing, VC-backed fintech. Our mission is to accelerate the mainstream adoption of digital assets by delivering deep liquidity and efficient settlement, globally. We provide secure and seamless access to digital assets for financial institutions, fintechs, brokers, PSPs, and crypto-native platforms. Working at Hercle We’re a lean, ambitious team where everyone gets real responsibility from day one, with the freedom to move fast and the support to grow. We wor…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820419?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "DATA SCIENTIST (m/w)",
+    "description": "Als kompetenter Recruiter bringt PRO ACADEMICS Fachspezialisten und Unternehmen zusammen. Unser Fokus liegt auf Ingenieuren, Wirtschaftsinformatikern und Naturwissenschaftlern aus den Bereichen Technologie und Strategie. Wir suchen einen analytischen Data Scientist für den Grossraum Zürich. Unsere Kundin ist ein angesehenes, etabliertes und international tätiges Beratungsunternehmen. Tätigkeitsbereich Sie sind zuständig für die Weiterverarbeitung, Aufbereitung und Auswertung sowie die Visualisi…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820520?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Machine Learning Scientist",
+    "description": "https://corporate.lastminute.com/careers/job/?id=744000000134046&jobName=Senior%20Machine%20Learning%20Scientist The Company lastminute.com is the European Travel Tech leader in Dynamic Holiday Packages. It operates a portfolio of well-known brands such as lastminute.com, Volagratis, Rumbo, weg.de, Bravofly, Jetcost and Hotelscan. Our mission is to lead the travel industry by leveraging technology to simplify, personalise, and enhance our customers’ travel experience. Experts in brightening up …",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820398?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Data Scientist (m/f/d)",
+    "description": "As Neomir continues to grow, we are looking for a motivated Data Scientist to become an integral part of our dynamic team. This role is more than just a regular data science job - it's a chance to lead research-oriented projects that will significantly enhance Neomir's core technology. You will contribute significantly to the following projects: Our pattern detection engine, a feature that we plan to launch in Q3/2025 Our LLM-based DQ Assistant engine, a feature we have launched in Q4/2024 and …",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "data scientist"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 200000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5228820229?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Lead Blockchain Developer (DeFi Startup)",
+    "description": "Join the Future of Crypto Investing! Are you passionate about blockchain, cryptocurrencies, and building revolutionary platforms? CRYLO® is a cutting-edge FinTech startup revolutionizing DeFi with Artificial Intelligence (AI) and Machine Learning (ML) algorithms. We are building a platform that simplifies crypto investing for the masses, from market analysis, to personalized crypto portfolio creation, and fully automated trading. Join this ambitious team as our Lead Blockchain Developer to shap…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "ml"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 70000,
+    "salaire_max": 160000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5214215758?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Trainee Data Analyst (Career Accelerator with Employment Guarantee)",
+    "description": "Are you passionate about uncovering insights from data and driving informed decision-making? Are you looking for a structured training program that can kickstart your career in data analysis? At Nuyew Tech Academy, we specialise in providing aspiring tech professionals like you with the tools, training, and support needed to launch successful careers in this vital industry. Whether you're starting from scratch or looking to advance your existing skills, our academy offers a comprehensive progra…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 50000,
+    "salaire_max": 50000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5159128018?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Trainee Software Developer (Career Accelerator with Employment Guarantee)",
+    "description": "Are you excited about leveraging your creativity and problem-solving skills to build innovative software solutions that make a positive impact on users' lives? Are you looking for a structured training program that can kickstart your career in software development? At Nuyew Tech Academy, we specialise in providing aspiring tech professionals like you with the tools, training, and support needed to launch successful careers in this vital industry. Whether you're starting from scratch or looking …",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 50000,
+    "salaire_max": 50000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5159128022?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Linux Engineer (Junior/Intermediate - 100%)",
+    "description": "We are looking for a Junior to Intermediate Linux Engineer who is eager to grow in a DevOps-focused environment. This role is ideal for someone with a solid foundation in Linux system administration and a passion for automation, scripting, and infrastructure as code (IaC). You will gain hands-on experience with Ansible, Terraform, CI/CD, and VMware, while working alongside experienced engineers. Tasks Assist in managing Linux systems, ensuring stability, security, and performance. Support and m…",
+    "secteur": "Unknown",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 80000,
+    "salaire_max": 95000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5133887170?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Senior Information Security Officer (a) 80-100%",
+    "description": "Bist du bereit, deine Fähigkeiten im Bereich IT-Sicherheit auf die nächste Stufe zu heben? Bei der CONVOTIS Swiss Cloud AG suchen wir einen engagierten und erfahrenen Security Officer. Als führender Schweizer Anbieter von sicheren Hosting- und Managed Services für geschäftskritische IT-Anwendungen, bieten wir dir die Möglichkeit, in einem dynamischen und innovativen Umfeld zu arbeiten. Unsere Experten planen und entwickeln spezialisierte Lösungen und betreiben komplexe Systeme in hochsicheren S…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 100000,
+    "salaire_max": 130000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5091045819?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Pre-Sales Engineer *TOP IT-CONSULTING FIRM*",
+    "description": "Stone Sourcing is hiring a Pre-Sales Engineer with expertise in Cisco ( CCIE/CCNP) for an award-winning IT Consultancy in Zürich. This role focuses on providing technical leadership, solutions design, and consultation in the areas of data center technologies , network transitions , automation , and operational improvements . Tasks Pre-Sales Support : Collaborate with the sales team to understand customer requirements, develop technical solutions, and create proposals focused on data center infr…",
+    "secteur": "Technikerstellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 120000,
+    "salaire_max": 150000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5091045757?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Full Stack Engineer (PHP, Python, Frontend)",
+    "description": "LocalPoint ist ein kleines KI-Unternehmen, das sich darauf spezialisiert hat, gedruckte Zeitungen in dynamische digitale Erlebnisse zu verwandeln. Wir nutzen modernste Technologie, um Zeitungen dabei zu helfen, ihre Reichweite zu erweitern und ihre Leser anzusprechen. Wir suchen derzeit einen talentierten und detailorientierten Full Stack Engineer mit Expertise in PHP, Python und Frontend-Entwicklung (HTML, CSS, JavaScript). Fließende Deutschkenntnisse werden vorausgesetzt. Aufgaben Als Full St…",
+    "secteur": "IT-Stellen",
+    "skills": [
+      "python"
+    ],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 60000,
+    "salaire_max": 100000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5091030756?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "Software Engineer",
+    "description": "Construction is a multi-trillion-dollar industry used by every human across the planet. It needs your help: we need to invent new software systems so construction becomes as efficient, quick, automated and green as possible. The team at Benetics (60 years of engineering experience, 2 founding engineers from Google, and a CEO with a successful exit in tech.) is laser-focused on a vision of understanding each building’s DNA: How are people on-site communicating? How was the building constructed c…",
+    "secteur": "IT-Stellen",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 110000,
+    "salaire_max": 150000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5091020582?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  },
+  {
+    "pays": "Switzerland",
+    "code_pays": "ch",
+    "titre": "VP of Engineering",
+    "description": "At TechBiz Global, we’re more than just a recruitment and software development company — we’re aGerman based global partner dedicated to your business success. With a diverse, distributed team, we specialize in IT recruitment, outstaffing, outsourcing, software development, and consulting services for more than 100 clients around over 20 countries. At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a VP of Engineering to join …",
+    "secteur": "Unknown",
+    "skills": [],
+    "techno_recherche": "python",
+    "is_remote": false,
+    "salaire_min": 150000,
+    "salaire_max": 150000,
+    "salaire_predicted": "0",
+    "url": "https://www.adzuna.ch/details/5048283551?utm_medium=api&utm_source=03d8c83f",
+    "date_collected": "20250701_1523"
+  }
+]

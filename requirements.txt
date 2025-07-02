@@ -1,0 +1,8 @@
+django>=5.0
+djangorestframework
+pandas
+sqlalchemy
+requests
+beautifulsoup4
+pytrends
+psycopg2-binary
