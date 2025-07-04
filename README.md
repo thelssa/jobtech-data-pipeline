@@ -67,4 +67,6 @@ curl.exe -H "Authorization: Token VOTRE_TOKEN" "http://localhost:8000/api/v1/sal
 
 ## 7. Interface d’admin
 
-Accès à /admin/ pour inspection directe des offres.
+Accès à `/admin/` pour inspection directe des offres.
+
+````
