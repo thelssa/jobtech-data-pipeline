@@ -1,7 +1,6 @@
-````markdown
 # JobTech – Pipeline Data & API Django
 
-Projet complet : collecte, nettoyage, stockage et exposition d’offres d’emploi tech, multi-sources, exploitable dans Django/Postgres avec API REST sécurisée.
+Projet: collecte, nettoyage, stockage et exposition d’offres d’emploi tech, multi-sources, exploitable dans Django/Postgres avec API REST sécurisée.
 
 ## 1. Pipeline & Stack
 
@@ -25,7 +24,7 @@ Projet complet : collecte, nettoyage, stockage et exposition d’offres d’em
 ```bash
 python -m venv venv
 pip install -r requirements.txt
-````
+
 
 ## 4. Migration & lancement serveur
 
