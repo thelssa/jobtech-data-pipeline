@@ -1,14 +1,14 @@
+from django.contrib.postgres.fields import ArrayField
 from django.db import models
 
 class JobOffer(models.Model):
-    title = models.CharField(max_length=255)
-    company = models.CharField(max_length=255)
-    industry = models.CharField(max_length=255)
-    sector = models.CharField(max_length=255, blank=True, null=True)
+    company = models.CharField(max_length=255, blank=True, null=True)
     country = models.CharField(max_length=64, blank=True, null=True)
-    salary_min = models.FloatField()
-    salary_max = models.FloatField()
-    skills_extracted_list = models.TextField(blank=True, null=True)
+    sector = models.CharField(max_length=64, blank=True, null=True)
+    title = models.CharField(max_length=255, blank=True, null=True)
+    salary_min = models.FloatField(blank=True, null=True)
+    salary_max = models.FloatField(blank=True, null=True)
+    skills = ArrayField(models.CharField(max_length=64), blank=True, default=list)
 
     def __str__(self):
-        return f"{self.title} - {self.company}"
+        return f"{self.company or 'Unknown'} - {self.title or 'No Title'}"

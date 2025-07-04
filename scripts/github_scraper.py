@@ -8,7 +8,10 @@ import time
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
 
-os.makedirs("raw", exist_ok=True)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+RAW_DIR = os.path.join(parent_dir, 'raw')
+os.makedirs(RAW_DIR, exist_ok=True)
 
 TECHNOS = [
     "python",          # language

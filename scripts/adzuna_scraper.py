@@ -31,8 +31,12 @@ SKILLS_LIST = [
 ]
 PAGES = 2
 PAUSE_BETWEEN_CALLS = 1
-RAW_DIR = "raw"
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+RAW_DIR = os.path.join(parent_dir, 'raw')
 os.makedirs(RAW_DIR, exist_ok=True)
+
 
 date_str = datetime.datetime.now().strftime("%Y%m%d_%H%M")
 logging.basicConfig(filename=os.path.join(RAW_DIR, "adzuna_log.txt"), level=logging.INFO)

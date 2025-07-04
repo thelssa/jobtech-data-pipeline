@@ -1,152 +1,127 @@
 import pandas as pd
 import numpy as np
+import ast
 import re
 
-# Load the unified raw dataset
-df = pd.read_csv("datasets_clean/unified_raw.csv")
+df = pd.read_csv("datasets_clean/unified_raw.csv", low_memory=False)
 
-final_dfs = []
+def choose_first_filled(row, candidates):
+    for col in candidates:
+        if col in row and pd.notnull(row[col]) and str(row[col]).strip():
+            return str(row[col]).strip()
+    return None
 
-# --- GLASSDOOR ---
-def parse_glassdoor_salary(s):
-    """
-    Parse Glassdoor salary estimate to extract min/max annual salary in USD.
-    Supports formats like "$63K-$112K (Glassdoor est.)" or "$53K-$91K".
-    Returns (salary_min, salary_max)
-    """
-    if isinstance(s, str):
-        nums = re.findall(r"\$?(\d+)[Kk]", s)
-        if len(nums) == 2:
-            return int(nums[0]) * 1000, int(nums[1]) * 1000
-        elif len(nums) == 1:
-            return int(nums[0]) * 1000, int(nums[0]) * 1000
-    return np.nan, np.nan
+# Harmonise le pays
+def clean_country(row):
+    # Prend "country" sinon "pays" sinon "code_pays"
+    return choose_first_filled(row, ["country", "pays", "code_pays"])
 
-if "glassdoor" in df["source"].unique():
-    gd_cols = {
-        "Job Title": "title",
-        "Company Name": "company",
-        "Salary Estimate": "salary_estimate",
-        "Industry": "industry",
-        "Sector": "sector",
-        "Location": "location",
-        "Revenue": "revenue",
-        # add other useful columns if needed
+df["company"] = df.apply(lambda row: choose_first_filled(row, ["company", "entreprise", "companie"]), axis=1)
+df["title"] = df.apply(lambda row: choose_first_filled(row, ["title", "titre", "job_title", "role"]), axis=1)
+df["country"] = df.apply(clean_country, axis=1)
+df["sector_raw"] = df.apply(lambda row: choose_first_filled(row, [
+    "sector", "secteur", "industry", "job_category", "categoria", "branche", "fonction", "category",
+    "emplois catégorie", "profession", "emploi", "berufsfeld", "branche", "functie", "vakgebied", "bereik"
+]), axis=1)
+
+# Harmonisation sector fuzzy
+def normalize_sector(val):
+    if pd.isnull(val) or not str(val).strip(): return "Unknown"
+    s = str(val).strip().lower()
+    s = re.sub(r'[àáâäãå]', 'a', s)
+    s = re.sub(r'[èéêë]', 'e', s)
+    s = re.sub(r'[ìíîï]', 'i', s)
+    s = re.sub(r'[òóôöõ]', 'o', s)
+    s = re.sub(r'[ùúûü]', 'u', s)
+    s = re.sub(r'[^a-z0-9&/ \-]', '', s)
+    s = s.replace("/", " ").replace("&", "and").replace("  ", " ")
+    s = s.strip()
+    keywords = {
+        "it": "IT",
+        "informatique": "IT",
+        "ict": "IT",
+        "engineering": "Engineering",
+        "ingenierie": "Engineering",
+        "consult": "Consulting",
+        "finance": "Finance",
+        "comptabilite": "Finance",
+        "account": "Finance",
+        "retail": "Retail",
+        "vente": "Sales",
+        "sales": "Sales",
+        "marketing": "Marketing",
+        "admin": "Admin",
+        "administration": "Admin",
+        "scientifique": "Science",
+        "science": "Science",
+        "health": "Health",
+        "sante": "Health",
+        "medical": "Health",
+        "education": "Education",
+        "teaching": "Education",
+        "logist": "Logistics",
+        "transport": "Logistics",
+        "customer": "Customer Service",
+        "creative": "Design",
+        "design": "Design",
+        "industrie": "Industry",
+        "distribution": "Logistics",
+        "autre": "Other",
+        "altro": "Other",
+        "general": "Other",
+        "other": "Other"
     }
-    glassdoor = df[df["source"] == "glassdoor"]
-    present = [k for k in gd_cols.keys() if k in glassdoor.columns]
-    glassdoor_clean = glassdoor[present].rename(columns={k: gd_cols[k] for k in present})
-    glassdoor_clean["source"] = "glassdoor"
-    # Parse salary
-    glassdoor_clean[["salary_min", "salary_max"]] = glassdoor_clean["salary_estimate"].apply(
-        lambda x: pd.Series(parse_glassdoor_salary(x))
-    )
-    final_dfs.append(glassdoor_clean)
+    for k, v in keywords.items():
+        if k in s:
+            return v
+    return "Unknown"
 
-# --- STACKOVERFLOW ---
-if "stackoverflow" in df["source"].unique():
-    so_cols = {
-        "MainBranch": "main_branch",
-        "Age": "age",
-        "Employment": "employment",
-        "RemoteWork": "remote_work",
-        "Country": "country",
-        "YearsCode": "years_code",
-        "DevType": "developer_type",
-        "ConvertedCompYearly": "salary_yearly",
-        "Industry": "industry",
-        "JobSat": "job_satisfaction",
-        # add more columns if needed
-    }
-    stackoverflow = df[df["source"] == "stackoverflow"]
-    present = [k for k in so_cols.keys() if k in stackoverflow.columns]
-    stackoverflow_clean = stackoverflow[present].rename(columns={k: so_cols[k] for k in present})
-    stackoverflow_clean["source"] = "stackoverflow"
-    # If available, copy salary_yearly into salary_min/salary_max
-    if "salary_yearly" in stackoverflow_clean.columns:
-        stackoverflow_clean["salary_min"] = stackoverflow_clean["salary_yearly"]
-        stackoverflow_clean["salary_max"] = stackoverflow_clean["salary_yearly"]
-    final_dfs.append(stackoverflow_clean)
+df["sector"] = df["sector_raw"].apply(normalize_sector)
 
-# --- ADZUNA ---
-if "adzuna" in df["source"].unique():
-    adzuna_cols = {
-        "titre": "title",
-        "company": "company",
-        "secteur": "sector",
-        "pays": "country",
-        "salaire_min": "salary_min",
-        "salaire_max": "salary_max",
-        "techno_recherche": "skills_extracted",
-        "url": "url",
-        "is_remote": "remote",
-        # add more if needed
-    }
-    adzuna = df[df["source"] == "adzuna"]
-    present = [k for k in adzuna_cols.keys() if k in adzuna.columns]
-    adzuna_clean = adzuna[present].rename(columns={k: adzuna_cols[k] for k in present})
-    adzuna_clean["source"] = "adzuna"
-    final_dfs.append(adzuna_clean)
+# Salary
+def clean_salary(x):
+    try:
+        if pd.isnull(x) or x == '': return None
+        x = str(x).replace(" ", "").replace(",", ".")
+        mult = 1
+        if x.lower().endswith('k'): mult = 1_000; x = x[:-1]
+        if x.lower().endswith('m'): mult = 1_000_000; x = x[:-1]
+        return float(x) * mult
+    except:
+        return None
 
-# --- GITHUB ---
-if "github" in df["source"].unique():
-    github_cols = {
-        "name": "repo_name",
-        "full_name": "full_repo_name",
-        "language": "language",
-        "stars": "stars",
-        "forks": "forks",
-        "topics": "topics",
-        "created_at": "created_at",
-        "updated_at": "updated_at",
-        # add more if needed
-    }
-    github = df[df["source"] == "github"]
-    present = [k for k in github_cols.keys() if k in github.columns]
-    github_clean = github[present].rename(columns={k: github_cols[k] for k in present})
-    github_clean["source"] = "github"
-    final_dfs.append(github_clean)
+for orig, target in [("salaire_min", "salary_min"), ("salary_min", "salary_min"),
+                     ("salaire_max", "salary_max"), ("salary_max", "salary_max")]:
+    if orig in df.columns:
+        df[target] = df[orig].apply(clean_salary)
 
-# --- REMOTEOK ---
-if "remoteok" in df["source"].unique():
-    remoteok_cols = {
-        "title": "title",
-        "company": "company",
-        "location": "location",
-        "skills_extracted": "skills",
-        "sector_extracted": "sector",
-        "url": "url",
-        # add more if needed
-    }
-    remoteok = df[df["source"] == "remoteok"]
-    present = [k for k in remoteok_cols.keys() if k in remoteok.columns]
-    remoteok_clean = remoteok[present].rename(columns={k: remoteok_cols[k] for k in present})
-    remoteok_clean["source"] = "remoteok"
-    final_dfs.append(remoteok_clean)
+def clean_skills(val):
+    try:
+        if pd.isnull(val) or val == '' or val == "[]": return []
+        if isinstance(val, list): return [str(x).strip() for x in val if x]
+        s = str(val).strip()
+        if s.startswith("[") and s.endswith("]"):
+            return [x.strip("'\" ") for x in ast.literal_eval(s) if x]
+        return [x.strip() for x in s.replace(";", ",").split(",") if x.strip()]
+    except:
+        return []
+if "skills" not in df.columns:
+    df["skills"] = [[] for _ in range(len(df))]
+else:
+    df["skills"] = df["skills"].apply(clean_skills)
 
-# --------- CONCAT & SAVE ---------
-if not final_dfs:
-    print("No data to clean!")
-    exit(1)
-
-# Standard column order for output (adapt as needed)
-main_cols = [
-    "source", "title", "company", "industry", "sector", "location", "country",
-    "salary_estimate", "salary_min", "salary_max", "skills_extracted", "repo_name",
-    "full_repo_name", "language", "stars", "forks", "topics", "created_at", "updated_at",
-    "remote", "url"
+final_cols = ["company", "country", "sector", "title", "salary_min", "salary_max", "skills"]
+df_final = df[final_cols].copy()
+df_final = df_final[
+    (df_final["title"].notnull() & (df_final["title"].str.len() > 0)) |
+    (df_final["company"].notnull() & (df_final["company"].str.len() > 0)) |
+    (df_final["sector"].notnull()) |
+    (df_final["skills"].apply(lambda x: len(x) > 0))
 ]
+df_final["skills"] = df_final["skills"].apply(lambda x: ",".join(x) if isinstance(x, list) else str(x))
+df_final = df_final.drop_duplicates()
+df_final["skills"] = df_final["skills"].apply(lambda x: [s.strip() for s in x.split(",") if s.strip()] if isinstance(x, str) and x else [])
 
-ordered_cols = [c for c in main_cols if c in pd.concat(final_dfs, axis=0).columns] + [
-    c for c in pd.concat(final_dfs, axis=0).columns if c not in main_cols
-]
-
-df_final = pd.concat(final_dfs, ignore_index=True, sort=False)
-df_final = df_final[ordered_cols]
-
-# Replace NaN with empty strings
-df_final.replace({np.nan: ""}, inplace=True)
-
-# Save cleaned file
+df_final.columns = [c.lower() for c in df_final.columns]
 df_final.to_csv("datasets_clean/final_clean.csv", index=False)
-print("[CLEAN] Cleaned file saved as datasets_clean/final_clean.csv")
+print(f"✅ Fichier exporté : datasets_clean/final_clean.csv ({len(df_final)} lignes)")

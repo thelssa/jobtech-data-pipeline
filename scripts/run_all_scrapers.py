@@ -12,7 +12,6 @@ SCRAPERS = [
     "stackoverflow_copy.py",
     "glassdoor_copy.py"
 ]
-
 # === Création d'un sous-dossier horodaté dans raw/ ===
 RAW_ROOT = "raw"
 now_str = datetime.datetime.now().strftime("%Y%m%d_%H%M")
